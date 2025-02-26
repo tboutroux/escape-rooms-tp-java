@@ -11,7 +11,7 @@ import org.springframework.context.ApplicationContext;
 @SpringBootApplication
 public class EscapeRoomsApplication {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { q
         ApplicationContext ctx = SpringApplication.run(EscapeRoomsApplication.class, args);
 
         System.out.println("Entrée dans la salle 1 : ");
